@@ -1,3 +1,4 @@
-rootProject.name = 'busBookingsystem'
+rootProject.name = 'busbookingsystem'
+
 apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
 include ':app'
