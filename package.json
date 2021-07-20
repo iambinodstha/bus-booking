@@ -13,7 +13,7 @@
     "@react-native-community/datetimepicker": "^3.0.9",
     "@react-native-community/geolocation": "^2.0.2",
     "react": "16.13.1",
-    "react-native": "0.63.4",
+    "react-native": "0.64.1",
     "react-native-maps": "^0.27.1",
     "react-native-modal-datetime-picker": "^9.1.0"
   },
